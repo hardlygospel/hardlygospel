@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hardlygospel&theme=github-dark-blue&hide_border=true)](https://github.com/hardlygospel)
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardlygospel&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/hardlygospel)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hardlygospel&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/hardlygospel)
 
 </div>
 
