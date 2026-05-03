@@ -46,6 +46,7 @@ Comprehensive, image-rich guides for games I play. Written like the guide I wish
 | Repo | Platform | Description |
 |---|---|---|
 | [🔒 worksafe-ai](https://github.com/hardlygospel/worksafe-ai) | macOS / Linux / Windows | Private local AI assistant — 100% offline, no API keys, powered by Ollama |
+| [⚔️ steen-poe-marketer](https://github.com/hardlygospel/steen-poe-marketer) | macOS / Linux / Windows | Path of Exile market analysis — 10 modules, tab autocomplete, poe.ninja data, GPL-3.0 |
 | [tonys-ultimate-windows-clean](https://github.com/hardlygospel/tonys-ultimate-windows-clean) | Windows | For Discord users and gamers — cleans up the bloat fast |
 | [tonys-ultimate-mac-clean](https://github.com/hardlygospel/tonys-ultimate-mac-clean) | macOS | Same thing for Mac — run it if you game or use Discord |
 | [tonys-ultimate-linux-clean](https://github.com/hardlygospel/tonys-ultimate-linux-clean) | Linux | Linux gamer and Discord user cleanup script |
