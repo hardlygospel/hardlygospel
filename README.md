@@ -1,7 +1,7 @@
 # Hey, I'm Tony Hosaroygard 👋
 
 [![Location](https://img.shields.io/badge/📍_Location-Launceston,_Tasmania-blue?style=flat-square)](https://github.com/hardlygospel)
-[![Blog](https://img.shields.io/badge/🌐_Blog-latenight.gg-blueviolet?style=flat-square)](https://latenight.gg)
+[![Blog](https://img.shields.io/badge/🌐_Blog-myplace.gg-blueviolet?style=flat-square)](https://myplace.gg)
 [![Role](https://img.shields.io/badge/🖥️_Role-Systems_Admin-orange?style=flat-square)](https://github.com/hardlygospel)
 [![Self-Hosting](https://img.shields.io/badge/🏠_Self--Hosting-Enthusiast-green?style=flat-square)](https://github.com/hardlygospel)
 
