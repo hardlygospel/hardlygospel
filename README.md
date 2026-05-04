@@ -1,4 +1,4 @@
-# Hey, I'm Tony 👋
+# Hey, I'm Tony Hosaroygard 👋
 
 [![Location](https://img.shields.io/badge/📍_Location-Sydney,_Australia-blue?style=flat-square)](https://github.com/hardlygospel)
 [![Blog](https://img.shields.io/badge/🌐_Blog-latenight.gg-blueviolet?style=flat-square)](https://latenight.gg)
@@ -134,7 +134,7 @@ Things I've forked to run locally, contribute to, or just keep an eye on.
 
 <div align="center">
 
-*Built and maintained in Sydney. Everything here is something I actually use.*
+*Tony Hosaroygard — built and maintained in Sydney. Everything here is something I actually use.*
 
 </div>
 
