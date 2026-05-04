@@ -28,6 +28,7 @@ Comprehensive, image-rich guides for games I play. Written like the guide I wish
 | [🚀 eve-online-2026-guide](https://github.com/hardlygospel/eve-online-2026-guide) | The most comprehensive EVE Online guide for 2026 — races, ISK methods, fittings, progression and more |
 | [🏰 uo-outlands-2026-guide](https://github.com/hardlygospel/uo-outlands-2026-guide) | Full Ultima Online: Outlands guide — skills, templates, dungeons, PvP, crafting, gold farming |
 | [🎲 dnd-2024-guide](https://github.com/hardlygospel/dnd-2024-guide) | Complete D&D 5e 2024 edition guide — classes, spells, combat, builds, DM tools and more |
+| [🍄 aldraxis-timberwalk](https://github.com/hardlygospel/aldraxis-timberwalk) | Wood Elf Druid, Circle of Spores — complete D&D 5e character reference with spell list, tier guide, Wild Shape cards, and combat tips. [Live page ↗](https://hardlygospel.github.io/aldraxis-timberwalk/) |
 
 ---
 
