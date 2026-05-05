@@ -1,4 +1,4 @@
-# Hey, I'm Tony Hosaroygard 👋
+# Hey, I'm Tony Hosaroygard 👋 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/40px-Tux.svg.png" alt="Tux" height="40" align="right"/>
 
 [![Location](https://img.shields.io/badge/📍_Location-Launceston,_Tasmania-blue?style=flat-square)](https://github.com/hardlygospel)
 [![Blog](https://img.shields.io/badge/🌐_Blog-myplace.gg-blueviolet?style=flat-square)](https://myplace.gg)
