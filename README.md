@@ -42,6 +42,16 @@ Comprehensive, image-rich guides for games I play. Written like the guide I wish
 
 ---
 
+## 📘 My Repos — Certification & Training
+
+Exam-focused quick reference guides. Succinct enough to read in a sitting, detailed enough to pass.
+
+| Repo | Description |
+|---|---|
+| [🔷 azure-training](https://github.com/hardlygospel/azure-training) | Azure Fundamentals (AZ-900) & Administrator (AZ-801) quick reference — cloud concepts, networking, compute, storage, identity, monitoring, Q&A and troubleshooting. [Live guide ↗](https://hardlygospel.github.io/azure-training/) |
+
+---
+
 ## 🔧 My Repos — System Tools
 
 | Repo | Platform | Description |
