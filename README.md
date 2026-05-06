@@ -56,6 +56,7 @@ Exam-focused quick reference guides. Succinct enough to read in a sitting, detai
 
 | Repo | Platform | Description |
 |---|---|---|
+| [🔥 firewall-generator](https://github.com/hardlygospel/firewall-generator) | Web (browser) | Tony's Firewall Generator — Palo Alto & FortiGate CLI commands instantly. Address objects, rules, IPsec, troubleshooting. Nothing leaves your browser. [Live ↗](https://hardlygospel.github.io/firewall-generator/) |
 | [🔒 worksafe-ai](https://github.com/hardlygospel/worksafe-ai) | macOS / Linux / Windows | Private local AI assistant — 100% offline, no API keys, powered by Ollama |
 | [⚔️ tonys-sysknife](https://github.com/hardlygospel/tonys-sysknife) | macOS / Linux / Windows | All-in-one sysadmin tool — 10 modules, btop-style live watch, AD/Azure, processes, logs, HTML reports, GPL-3.0 |
 | [⚔️ steen-poe-marketer](https://github.com/hardlygospel/steen-poe-marketer) | macOS / Linux / Windows | Path of Exile market analysis — 10 modules, tab autocomplete, poe.ninja data, GPL-3.0 |
