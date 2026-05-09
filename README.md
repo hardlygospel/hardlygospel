@@ -56,6 +56,7 @@ Exam-focused quick reference guides. Succinct enough to read in a sitting, detai
 
 | Repo | Platform | Description |
 |---|---|---|
+| [🐧 bashquest](https://github.com/hardlygospel/bashquest) | macOS / Linux | Interactive terminal game teaching Linux & Bash — 8 levels, pseudo login, lives/XP/leaderboard, tar, grep, awk, sed, networking, scripting. Pure Bash, GPL-3.0 |
 | [🔥 firewall-generator](https://github.com/hardlygospel/firewall-generator) | Web (browser) | Tony's Firewall Generator — Palo Alto & FortiGate CLI commands instantly. Address objects, rules, IPsec, troubleshooting. Nothing leaves your browser. [Live ↗](https://hardlygospel.github.io/firewall-generator/) |
 | [🔒 worksafe-ai](https://github.com/hardlygospel/worksafe-ai) | macOS / Linux / Windows | Private local AI assistant — 100% offline, no API keys, powered by Ollama |
 | [⚔️ tonys-sysknife](https://github.com/hardlygospel/tonys-sysknife) | macOS / Linux / Windows | All-in-one sysadmin tool — 10 modules, btop-style live watch, AD/Azure, processes, logs, HTML reports, GPL-3.0 |
