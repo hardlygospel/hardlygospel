@@ -36,6 +36,7 @@ Comprehensive, image-rich guides for games I play. Written like the guide I wish
 
 | Repo | Description |
 |---|---|
+| [🏠 home-sh](https://github.com/hardlygospel/home-sh) | **[Proof of concept]** Self-hosted SSH terminal home — dashboard, chat, notes, arcade, lo-fi radio, virtual cat |
 | [🎬 jellyfin-mediastack](https://github.com/hardlygospel/jellyfin-mediastack) | Self-hosted media automation — Radarr, Sonarr, Prowlarr, qBittorrent, Jellyseerr in Docker |
 | [🔒 home-proxy-tunnel](https://github.com/hardlygospel/home-proxy-tunnel) | Reverse HTTPS proxy tunnel via Cloudflare — browse from home, anywhere |
 | [🌐 xray-reality-proxy](https://github.com/hardlygospel/xray-reality-proxy) | Installs Xray-core and configures a VLESS + Reality proxy server or client |
