@@ -6,6 +6,8 @@
 [![Self-Hosting](https://img.shields.io/badge/🏠_Self--Hosting-Enthusiast-green?style=flat-square)](https://github.com/hardlygospel)
 
 > Systems admin and self-hosting enthusiast. Automating everything on Linux & macOS. Most of what's here is personal tooling, game guides, and things I forked because I wanted to run them myself.
+>
+> Outside of Discord, **late.sh** is my primary hangout — I live there alongside Discord, and I'm honoured to be a developer and moderator on it.
 
 ---
 
