@@ -1,5 +1,7 @@
 # Hey, I'm Tony Hosaroygard 👋 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/40px-Tux.svg.png" alt="Tux" height="40" align="right"/>
 
+[![Resume](https://img.shields.io/badge/📄_Resume-tony--hosaroygard-success?style=flat-square)](https://hardlygospel.github.io/tony-hosaroygard/)
+[![Links](https://img.shields.io/badge/🔗_Links-linktree-success?style=flat-square)](https://hardlygospel.github.io/tony-hosaroygard/links.html)
 [![Location](https://img.shields.io/badge/📍_Location-Launceston,_Tasmania-blue?style=flat-square)](https://github.com/hardlygospel)
 [![Blog](https://img.shields.io/badge/🌐_Blog-myplace.gg-blueviolet?style=flat-square)](https://myplace.gg)
 [![Role](https://img.shields.io/badge/🖥️_Role-Systems_Admin-orange?style=flat-square)](https://github.com/hardlygospel)
@@ -7,7 +9,7 @@
 
 > Systems admin and self-hosting enthusiast. Automating everything on Linux & macOS. Most of what's here is personal tooling, game guides, and things I forked because I wanted to run them myself.
 >
-> Outside of Discord, **late.sh** is my primary hangout — I live there alongside Discord, and I'm honoured to be a developer and moderator on it.
+> Outside of Discord, **late.sh** is my primary hangout, I live there alongside Discord, and I'm honoured to be a developer and moderator on it.
 
 ---
 
@@ -21,57 +23,57 @@
 
 ---
 
-## 🎮 My Repos — Gaming Guides
+## 🎮 My Repos: Gaming Guides
 
 Comprehensive, image-rich guides for games I play. Written like the guide I wished I had when I started.
 
 | Repo | Description |
 |---|---|
-| [🚀 eve-online-2026-guide](https://github.com/hardlygospel/eve-online-2026-guide) | The most comprehensive EVE Online guide for 2026 — races, ISK methods, fittings, progression and more |
-| [🏰 uo-outlands-2026-guide](https://github.com/hardlygospel/uo-outlands-2026-guide) | Full Ultima Online: Outlands guide — skills, templates, dungeons, PvP, crafting, gold farming |
-| [🎲 dnd-2024-guide](https://github.com/hardlygospel/dnd-2024-guide) | Complete D&D 5e 2024 edition guide — classes, spells, combat, builds, DM tools and more |
-| [🍄 aldraxis-timberwalk](https://github.com/hardlygospel/aldraxis-timberwalk) | Wood Elf Druid, Circle of Spores — complete D&D 5e character reference with spell list, tier guide, Wild Shape cards, and combat tips. [Live page ↗](https://hardlygospel.github.io/aldraxis-timberwalk/) |
+| [🚀 eve-online-2026-guide](https://github.com/hardlygospel/eve-online-2026-guide) | The most comprehensive EVE Online guide for 2026: races, ISK methods, fittings, progression and more |
+| [🏰 uo-outlands-2026-guide](https://github.com/hardlygospel/uo-outlands-2026-guide) | Full Ultima Online: Outlands guide: skills, templates, dungeons, PvP, crafting, gold farming |
+| [🎲 dnd-2024-guide](https://github.com/hardlygospel/dnd-2024-guide) | Complete D&D 5e 2024 edition guide: classes, spells, combat, builds, DM tools and more |
+| [🍄 aldraxis-timberwalk](https://github.com/hardlygospel/aldraxis-timberwalk) | Wood Elf Druid, Circle of Spores, complete D&D 5e character reference with spell list, tier guide, Wild Shape cards, and combat tips. [Live page ↗](https://hardlygospel.github.io/aldraxis-timberwalk/) |
 
 ---
 
-## 🖥️ My Repos — Self-Hosting & Infrastructure
+## 🖥️ My Repos: Self-Hosting & Infrastructure
 
 | Repo | Description |
 |---|---|
-| [🏠 home-sh](https://github.com/hardlygospel/home-sh) | **[Proof of concept]** Self-hosted SSH terminal home — dashboard, chat, notes, arcade, lo-fi radio, virtual cat |
-| [🎬 jellyfin-mediastack](https://github.com/hardlygospel/jellyfin-mediastack) | Self-hosted media automation — Radarr, Sonarr, Prowlarr, qBittorrent, Jellyseerr in Docker |
-| [🔒 home-proxy-tunnel](https://github.com/hardlygospel/home-proxy-tunnel) | Reverse HTTPS proxy tunnel via Cloudflare — browse from home, anywhere |
+| [🏠 home-sh](https://github.com/hardlygospel/home-sh) | **[Proof of concept]** Self-hosted SSH terminal home: dashboard, chat, notes, arcade, lo-fi radio, virtual cat |
+| [🎬 jellyfin-mediastack](https://github.com/hardlygospel/jellyfin-mediastack) | Self-hosted media automation: Radarr, Sonarr, Prowlarr, qBittorrent, Jellyseerr in Docker |
+| [🔒 home-proxy-tunnel](https://github.com/hardlygospel/home-proxy-tunnel) | Reverse HTTPS proxy tunnel via Cloudflare: browse from home, anywhere |
 | [🌐 xray-reality-proxy](https://github.com/hardlygospel/xray-reality-proxy) | Installs Xray-core and configures a VLESS + Reality proxy server or client |
 
 ---
 
-## 📘 My Repos — Certification & Training
+## 📘 My Repos: Certification & Training
 
 Exam-focused quick reference guides. Succinct enough to read in a sitting, detailed enough to pass.
 
 | Repo | Description |
 |---|---|
-| [🔷 azure-training](https://github.com/hardlygospel/azure-training) | Azure Fundamentals (AZ-900) & Administrator (AZ-801) quick reference — cloud concepts, networking, compute, storage, identity, monitoring, Q&A and troubleshooting. [Live guide ↗](https://hardlygospel.github.io/azure-training/) |
+| [🔷 azure-training](https://github.com/hardlygospel/azure-training) | Azure Fundamentals (AZ-900) & Administrator (AZ-801) quick reference: cloud concepts, networking, compute, storage, identity, monitoring, Q&A and troubleshooting. [Live guide ↗](https://hardlygospel.github.io/azure-training/) |
 
 ---
 
-## 🔧 My Repos — System Tools
+## 🔧 My Repos: System Tools
 
 | Repo | Platform | Description |
 |---|---|---|
-| [🐧 bashquest](https://github.com/hardlygospel/bashquest) | macOS / Linux | Interactive terminal game teaching Linux & Bash — 8 levels, pseudo login, lives/XP/leaderboard, tar, grep, awk, sed, networking, scripting. Pure Bash, GPL-3.0 |
-| [🔥 firewall-generator](https://github.com/hardlygospel/firewall-generator) | Web (browser) | Tony's Firewall Generator — Palo Alto & FortiGate CLI commands instantly. Address objects, rules, IPsec, troubleshooting. Nothing leaves your browser. [Live ↗](https://hardlygospel.github.io/firewall-generator/) |
-| [🔒 worksafe-ai](https://github.com/hardlygospel/worksafe-ai) | macOS / Linux / Windows | Private local AI assistant — 100% offline, no API keys, powered by Ollama |
-| [⚔️ tonys-sysknife](https://github.com/hardlygospel/tonys-sysknife) | macOS / Linux / Windows | All-in-one sysadmin tool — 10 modules, btop-style live watch, AD/Azure, processes, logs, HTML reports, GPL-3.0 |
-| [⚔️ steen-poe-marketer](https://github.com/hardlygospel/steen-poe-marketer) | macOS / Linux / Windows | Path of Exile market analysis — 10 modules, tab autocomplete, poe.ninja data, GPL-3.0 |
-| [tonys-ultimate-windows-clean](https://github.com/hardlygospel/tonys-ultimate-windows-clean) | Windows | For Discord users and gamers — cleans up the bloat fast |
-| [tonys-ultimate-mac-clean](https://github.com/hardlygospel/tonys-ultimate-mac-clean) | macOS | Same thing for Mac — run it if you game or use Discord |
+| [🐧 bashquest](https://github.com/hardlygospel/bashquest) | macOS / Linux | Interactive terminal game teaching Linux & Bash: 8 levels, pseudo login, lives/XP/leaderboard, tar, grep, awk, sed, networking, scripting. Pure Bash, GPL-3.0 |
+| [🔥 firewall-generator](https://github.com/hardlygospel/firewall-generator) | Web (browser) | Tony's Firewall Generator: Palo Alto & FortiGate CLI commands instantly. Address objects, rules, IPsec, troubleshooting. Nothing leaves your browser. [Live ↗](https://hardlygospel.github.io/firewall-generator/) |
+| [🔒 worksafe-ai](https://github.com/hardlygospel/worksafe-ai) | macOS / Linux / Windows | Private local AI assistant: 100% offline, no API keys, powered by Ollama |
+| [⚔️ tonys-sysknife](https://github.com/hardlygospel/tonys-sysknife) | macOS / Linux / Windows | All-in-one sysadmin tool: 10 modules, btop-style live watch, AD/Azure, processes, logs, HTML reports, GPL-3.0 |
+| [⚔️ steen-poe-marketer](https://github.com/hardlygospel/steen-poe-marketer) | macOS / Linux / Windows | Path of Exile market analysis: 10 modules, tab autocomplete, poe.ninja data, GPL-3.0 |
+| [tonys-ultimate-windows-clean](https://github.com/hardlygospel/tonys-ultimate-windows-clean) | Windows | For Discord users and gamers, cleans up the bloat fast |
+| [tonys-ultimate-mac-clean](https://github.com/hardlygospel/tonys-ultimate-mac-clean) | macOS | Same thing for Mac, run it if you game or use Discord |
 | [tonys-ultimate-linux-clean](https://github.com/hardlygospel/tonys-ultimate-linux-clean) | Linux | Linux gamer and Discord user cleanup script |
-| [mac-system-monitor](https://github.com/hardlygospel/mac-system-monitor) | macOS | Detailed system stats dashboard — like btop, but with more |
+| [mac-system-monitor](https://github.com/hardlygospel/mac-system-monitor) | macOS | Detailed system stats dashboard, like btop, but with more |
 
 ---
 
-## 🔀 Forks — What I'm Watching
+## 🔀 Forks: What I'm Watching
 
 Things I've forked to run locally, contribute to, or just keep an eye on.
 
@@ -80,7 +82,7 @@ Things I've forked to run locally, contribute to, or just keep an eye on.
 | Repo | Language | Description |
 |---|---|---|
 | [gmail-tui](https://github.com/hardlygospel/gmail-tui) | Go | Gmail in your terminal |
-| [awesome-tuis](https://github.com/hardlygospel/awesome-tuis) | — | Curated list of terminal UI projects |
+| [awesome-tuis](https://github.com/hardlygospel/awesome-tuis) | n/a | Curated list of terminal UI projects |
 | [gum](https://github.com/hardlygospel/gum) | Go | A tool for glamorous shell scripts |
 | [tabby](https://github.com/hardlygospel/tabby) | TypeScript | A modern terminal emulator |
 | [watchtower](https://github.com/hardlygospel/watchtower) | Go | Clean, minimal terminal intelligence dashboard |
@@ -91,7 +93,7 @@ Things I've forked to run locally, contribute to, or just keep an eye on.
 | Repo | Language | Description |
 |---|---|---|
 | [sherlock](https://github.com/hardlygospel/sherlock) | Python | Find usernames across social networks |
-| [wstunnel](https://github.com/hardlygospel/wstunnel) | Rust | Tunnel traffic over WebSocket — bypass firewalls/DPI |
+| [wstunnel](https://github.com/hardlygospel/wstunnel) | Rust | Tunnel traffic over WebSocket, bypass firewalls/DPI |
 | [prism-break](https://github.com/hardlygospel/prism-break) | HTML | Privacy and security-oriented software recommendations |
 | [RetroShare](https://github.com/hardlygospel/RetroShare) | C++ | Friend-to-friend secure decentralised communication |
 
@@ -101,7 +103,7 @@ Things I've forked to run locally, contribute to, or just keep an eye on.
 |---|---|---|
 | [Red-DiscordBot](https://github.com/hardlygospel/Red-DiscordBot) | Python | Multi-function self-hosted Discord bot |
 | [cracktunes](https://github.com/hardlygospel/cracktunes) | Rust | Self-hosted Discord music bot with YouTube & Spotify |
-| [memos](https://github.com/hardlygospel/memos) | Go | Open-source, self-hosted note-taking — your data, your control |
+| [memos](https://github.com/hardlygospel/memos) | Go | Open-source, self-hosted note-taking: your data, your control |
 | [secretsanta](https://github.com/hardlygospel/secretsanta) | TypeScript | Host Secret Santa gift exchanges privately |
 | [riot-web](https://github.com/hardlygospel/riot-web) | JavaScript | Matrix collaboration client |
 | [Singlelink](https://github.com/hardlygospel/Singlelink) | Vue | Open-source alternative to Linktree |
@@ -117,7 +119,7 @@ Things I've forked to run locally, contribute to, or just keep an eye on.
 | [inception](https://github.com/hardlygospel/inception) | Shell | First-boot setup script for Debian/Ubuntu |
 | [aenigma](https://github.com/hardlygospel/aenigma) | Shell | Secure, one-touch-deployed XMPP server |
 | [Tomomi](https://github.com/hardlygospel/Tomomi) | Shell | Realtek WiFi driver install script for Linux |
-| [linuxjourney](https://github.com/hardlygospel/linuxjourney) | — | Course content for linuxjourney.com |
+| [linuxjourney](https://github.com/hardlygospel/linuxjourney) | n/a | Course content for linuxjourney.com |
 
 ### 🎵 Media & Entertainment
 
@@ -149,7 +151,7 @@ Things I've forked to run locally, contribute to, or just keep an eye on.
 
 <div align="center">
 
-*Tony Hosaroygard — built and maintained in Launceston, Tasmania. Everything here is something I actually use.*
+*Tony Hosaroygard: built and maintained in Launceston, Tasmania. Everything here is something I actually use.*
 
 </div>
 
