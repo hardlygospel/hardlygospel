@@ -3,13 +3,13 @@
 [![Resume](https://img.shields.io/badge/📄_Resume-tony--hosaroygard-success?style=flat-square)](https://hardlygospel.github.io/tony-hosaroygard/)
 [![Links](https://img.shields.io/badge/🔗_Links-linktree-success?style=flat-square)](https://hardlygospel.github.io/tony-hosaroygard/links.html)
 [![Location](https://img.shields.io/badge/📍_Location-Launceston,_Tasmania-blue?style=flat-square)](https://github.com/hardlygospel)
-[![Blog](https://img.shields.io/badge/🌐_Blog-myplace.gg-blueviolet?style=flat-square)](https://myplace.gg)
+[![Home](https://img.shields.io/badge/💬_Discord-Home_%28myplace.gg%29-blueviolet?style=flat-square)](https://myplace.gg)
 [![Role](https://img.shields.io/badge/🖥️_Role-Systems_Admin-orange?style=flat-square)](https://github.com/hardlygospel)
 [![Self-Hosting](https://img.shields.io/badge/🏠_Self--Hosting-Enthusiast-green?style=flat-square)](https://github.com/hardlygospel)
 
 > Systems admin and self-hosting enthusiast. Automating everything on Linux & macOS. Most of what's here is personal tooling, game guides, and things I forked because I wanted to run them myself.
 >
-> Outside of Discord, **late.sh** is my primary hangout, I live there alongside Discord, and I'm honoured to be a developer and moderator on it.
+> I run **Home** ([myplace.gg](https://myplace.gg)), my own Discord community, and it's where I actually spend my time. Beyond that, **late.sh** is my other regular hangout, and I'm honoured to be a developer and moderator on it.
 
 ---
 
