@@ -13,6 +13,23 @@
 
 ---
 
+### 🐧 Featured: BashQuest
+
+**An interactive terminal game that turns your shell into a full systems administration training ground.** No slides, no video: you type real commands against a real simulated environment, and a mentor character reacts to every answer.
+
+**61 levels across 12 tiers**, building from the absolute basics all the way up to topics most "Linux 101" courses never touch: navigation, permissions, and scripting, then pipes and regex, then LVM and filesystems, Samba and NFS, full enterprise networking with VLANs and firewalls, iSCSI and SAN storage, GRUB and kernel panics, building a kernel from source, and finally ricing a tiling window manager (i3, AwesomeWM) as the finale. Finish it and you can comfortably administrate a corporate network, or set up a genuinely great-looking home desktop.
+
+[![Play BashQuest](https://img.shields.io/badge/▶_Play_BashQuest-61_levels_%2F_12_tiers-success?style=for-the-badge)](https://github.com/hardlygospel/bashquest)
+[![Docs](https://img.shields.io/badge/📖_Read_the_docs-hardlygospel.github.io%2Fbashquest-blue?style=for-the-badge)](https://hardlygospel.github.io/bashquest/)
+
+```bash
+curl -o bashquest.sh https://raw.githubusercontent.com/hardlygospel/bashquest/main/bashquest.sh && bash bashquest.sh
+```
+
+No dependencies. No installation. Pure Bash, runs on Linux and macOS.
+
+---
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hardlygospel&theme=github-dark-blue&hide_border=true)](https://github.com/hardlygospel)
@@ -61,7 +78,6 @@ Exam-focused quick reference guides. Succinct enough to read in a sitting, detai
 
 | Repo | Platform | Description |
 |---|---|---|
-| [🐧 bashquest](https://github.com/hardlygospel/bashquest) | macOS / Linux | Interactive terminal game teaching Linux & Bash: 8 levels, pseudo login, lives/XP/leaderboard, tar, grep, awk, sed, networking, scripting. Pure Bash, GPL-3.0 |
 | [🔥 firewall-generator](https://github.com/hardlygospel/firewall-generator) | Web (browser) | Tony's Firewall Generator: Palo Alto & FortiGate CLI commands instantly. Address objects, rules, IPsec, troubleshooting. Nothing leaves your browser. [Live ↗](https://hardlygospel.github.io/firewall-generator/) |
 | [🔒 worksafe-ai](https://github.com/hardlygospel/worksafe-ai) | macOS / Linux / Windows | Private local AI assistant: 100% offline, no API keys, powered by Ollama |
 | [⚔️ tonys-sysknife](https://github.com/hardlygospel/tonys-sysknife) | macOS / Linux / Windows | All-in-one sysadmin tool: 10 modules, btop-style live watch, AD/Azure, processes, logs, HTML reports, GPL-3.0 |
