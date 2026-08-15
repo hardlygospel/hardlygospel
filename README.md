@@ -34,7 +34,7 @@ No dependencies. No installation. Pure Bash, runs on Linux and macOS.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hardlygospel&theme=github-dark-blue&hide_border=true)](https://github.com/hardlygospel)
 &nbsp;&nbsp;
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hardlygospel&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/hardlygospel)
+[![Trophies](https://github-trophy.vercel.app/?username=hardlygospel&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/hardlygospel)
 
 </div>
 
