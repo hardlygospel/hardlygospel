@@ -13,7 +13,7 @@
 
 ---
 
-### 🐧 Featured: BashQuest
+### 🐧 Featured: [BashQuest](https://github.com/hardlygospel/bashquest)
 
 **An interactive terminal game that turns your shell into a full systems administration training ground.** No slides, no video: you type real commands against a real simulated environment, and a mentor character reacts to every answer.
 
